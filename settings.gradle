@@ -1,0 +1,2 @@
+rootProject.name='Taskit'
+include ':app'
